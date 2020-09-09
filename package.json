@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leah68/test/issues"
   },
-  "homepage": "https://github.com/leah68/test#readme"
+  "homepage": "https://github.com/leah68/test#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
 }
